@@ -9,8 +9,8 @@ Učím se systematicky (kurzy + praxe) a portfolio drží na projektech, které 
 | Projekt | Co ukazuje | Live / repo |
 | --- | --- | --- |
 | **TechnikGO** (demo) | Servisní appka: firmy, zákazníci, objekty, zařízení, QR, servisní list | *připravuji* |
-| **Dr Detailing** | Scroll-film marketing web + admin (chráněný heslem) | [drdetailing.cz](https://drdetailing.cz) |
-| **DotaceStavba** (demo) | Stavební deník + přehled financí a dotací | *připravuji* |
+| **Dr Detailing** | Scroll-film marketing web + admin (chráněný heslem) | [Live](https://drdetailing.cz) · [Repo](https://github.com/kotyzaIndu/dr-detailing-demo) |
+| **DotaceStavba** (demo) | Deník stavby + dotace a přehled financí | *připravuji* |
 
 ## Stack
 
